@@ -2,7 +2,7 @@
 
 ![Let's Build: With Ruby on Rails - Blog with Comments](https://i.imgur.com/DkZSTee.jpg)
 
-Read the full blog post and watch the screencast at [Web-Crunch.com](https://web-crunch.com/lets-build-with-ruby-on-rails-blog-with-comments)
+**An Andy Leverenz tutorial.** Read the full blog post and watch the screencast at [Web-Crunch.com](https://web-crunch.com/lets-build-with-ruby-on-rails-blog-with-comments)
 
 ### Kicking things off with a blog
 
@@ -66,7 +66,7 @@ Ultimately, the point of this tutorial and video is to help anyone new to the fr
 
 - [Simple Form](https://github.com/plataformatec/simple_form) - For simpler forms!
 
-  Our final post form partial is as follows. Here I add bulma specific classes to get Simple Form to play nice with the CSS framework. If you use Simple Form with [Bootstrap](https://getbootstrap.com) or [Foundation](https://foundation.zurb.com/sites/download.html/) you likely need even less markup than this. 
+  Our final post form partial is as follows. Bulma specific classes are added to get Simple Form to play nice with the CSS framework.  
 
   ```erb
   <div class="section">
@@ -87,4 +87,4 @@ Ultimately, the point of this tutorial and video is to help anyone new to the fr
   </div>
   ```
 
- Continue reading at [Web-Crunch.com]
+ Continue reading at [Web-Crunch.com](https://web-crunch.com/lets-build-with-ruby-on-rails-blog-with-comments)
